@@ -1,6 +1,6 @@
 Hi there 👋 I'm Mohammad Rehan Qureshi
 
-🚀 Software Engineer | Data Engineer Intern @ Sigmoid | Flutter & Golang Developer
+🚀 Software Engineer | Flutter & Golang Developer
 
 I'm passionate about leveraging technology to solve real-world problems through scalable and efficient solutions. I love building full-stack applications, working with cloud technologies, and exploring data engineering pipelines.
 
