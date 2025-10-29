@@ -5,7 +5,7 @@
 
 Passionate about building scalable applications and exploring the world of big data. I work across full-stack development, cloud technologies, and data engineering to create efficient, real-world solutions.
 
-💻 What I Do <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+💻 What I Do <img align="right" alt="Coding" width="260" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 
 Develop full-stack apps with Golang, Flutter. 
