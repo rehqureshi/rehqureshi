@@ -11,7 +11,7 @@ Passionate about building scalable applications and exploring the world of big d
 Develop full-stack apps with Golang, Flutter. 
 
 Work in Big Data and Cloud environments using Azure,
-Docker, and Kubernetes. <img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+Docker, and Kubernetes.<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
 🔭 Featured Projects
 
