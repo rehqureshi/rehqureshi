@@ -1,28 +1,86 @@
-<h1 align="center">Hi 👋, I'm Rehan</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Rehan Qureshi</h1>
 
+<p align="left">
+Data Engineer | Software Engineer | Backend & Cloud Systems
+</p>
 
-🚀 Software Engineer | Flutter & Golang Developer | Big Data Enthusiast
+<img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 
-Passionate about building scalable applications and exploring the world of big data. I work across full-stack development, cloud technologies, and data engineering to create efficient, real-world solutions.
+<p align="left">
+I enjoy building scalable applications, data pipelines, and backend systems that solve real-world problems.
+My work spans data engineering, cloud infrastructure, distributed systems, and product development.
+</p>
 
-💻 What I Do 
+<h3>What I Work On</h3>
 
+- Building backend systems with Go, Python, and SQL  
+- Designing ETL / ELT pipelines using Snowflake, Spark, and Airflow  
+- Working across AWS, Azure, and GCP cloud environments  
+- Developing full-stack applications with Flutter and PostgreSQL  
 
-Develop full-stack apps with Golang, Flutter. 
+<h3>Featured Projects</h3>
 
-Work in Big Data and Cloud environments using Azure,
-Docker, and Kubernetes.<img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+- **AgencyOS** – SaaS platform for agency management built with Go, Flutter, and PostgreSQL  
+- **AI Interview Intelligence Platform** – Production ETL + LLM workflow using PySpark, Airflow, Gemini, and Cloud Run  
+- **Snowflake Migration Automation** – Validation and optimization workflows using SnowConvert and Snowflake Cortex  
+- **Alzheimer's Classification** – CNN-based multimodal deep learning prediction system  
 
-🔭 Featured Projects
+<h3>Tools and Languages</h3>
 
-📝 NotePilot – Full-stack note app using Go & PostgreSQL
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  
+  <a href="https://golang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  </a>
+  
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  </a>
 
-🎙️ DeepFake Audio Detection – ML model with MFCC + SVM
+  <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/snowflake/29B5E8" alt="snowflake" width="40" height="40"/>
+  </a>
 
-⚙️ REST API (Go) – Scalable user management API
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/apachespark/E25A1C" alt="spark" width="40" height="40"/>
+  </a>
 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
 
-Tools and Languages 
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
+  </a>
 
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="40"/>
+  </a>
+
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  </a>
+
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/googlecloud/4285F4" alt="gcp" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  </a>
+</p>
