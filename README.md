@@ -1,47 +1,33 @@
-<h1 align="center">Hi 👋, I'm Mohammad Rehan Qureshi</h1>
+<h1 align="center">Hi, I'm Mohammad Rehan Qureshi 👋</h1>
+<p align="center"><b>Data Engineer</b> · Snowflake · dbt · PySpark · Airflow · Bangalore, India</p>
 
-<p>
-Data Engineer | Software Engineer | Backend & Cloud Systems
+<p align="center">
+<img src="https://img.shields.io/badge/SnowPro_Core-Certified-29B5E8?logo=snowflake&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks_Data_Engineer_Associate-Certified-FF3621?logo=databricks&logoColor=white" />
 </p>
 
-<img align="right" alt="Coding" width="330" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
+I build production data pipelines and analytics platforms. Right now I work as an **Associate Data Engineer at Claroda** (Snowflake partner), where I own an AI-assisted ELT pipeline and a **SQL Server → Snowflake migration tool** used for client onboardings. Before that I built ETL + LLM pipelines on GCP as a Data Engineer Intern at **Sigmoid Analytics**.
 
-<p>
-I enjoy building scalable applications, data pipelines, and backend systems that solve real-world problems. My work spans data engineering, cloud infrastructure, distributed systems, and product development.
-</p>
+### 🔧 What I work with
 
-<h3>What I Work On</h3>
+| | |
+|---|---|
+| **Warehousing & modelling** | Snowflake (Streams, Tasks, Stages, Cortex AI), dbt, dimensional modelling |
+| **Processing & orchestration** | PySpark, Databricks, Apache Airflow |
+| **Cloud & DevOps** | AWS, GCP (Cloud Run, Scheduler), Azure Pipelines, GitHub Actions, Docker |
+| **Languages & databases** | Python, SQL, Go · PostgreSQL, SQL Server |
+| **AI / LLM** | Snowflake Cortex, Gemini, LLM output validation with Pydantic |
 
-- Building backend systems with Go, Python, and SQL  
-- Designing ETL / ELT pipelines using Snowflake, Spark, and Airflow  
-- Working across AWS, Azure, and GCP cloud environments  
-- Developing full-stack applications with Flutter and PostgreSQL  
+### 📌 Featured projects
 
-<h3>Featured Projects</h3>
+- **[Netflix Content Intelligence Platform](https://github.com/rehqureshi/netflix-content-intelligence-platform)**: Snowflake + dbt pipeline (RAW → STAGING → ANALYTICS) with a star schema and bridge tables, dbt tests, and a 7-page Streamlit dashboard.
+- **[AgencyOS](https://github.com/rehqureshi/AgencyOS)**: full-stack SaaS for agency management in Go, PostgreSQL and Flutter with JWT-secured REST APIs. [Live demo](https://agency-os-html.vercel.app/)
 
-- **AgencyOS** – SaaS platform for agency management built with Go, Flutter, and PostgreSQL  
-- **AI Interview Intelligence Platform** – Production ETL + LLM workflow using PySpark, Airflow, Gemini, and Cloud Run  
-- **Snowflake Migration Automation** – Validation and optimization workflows using SnowConvert and Snowflake Cortex  
-- **Alzheimer's Classification** – CNN-based multimodal deep learning prediction system  
+### 🏢 Work highlights *(private code)*
 
-<br clear="both"/>
+- **AI-assisted ELT pipeline (Claroda)**: turns raw client data into production dbt models; added a Snowflake Cortex-only mode for clients without external AI access.
+- **SQL Server → Snowflake migration tool (Claroda)**: automated conversion, plus an AI-assisted review queue for objects that can't be converted automatically.
+- **AI interview intelligence platform (Sigmoid)**: PySpark + Airflow ETL on GCP Cloud Run with Gemini summarisation and a 9-check LLM output validation framework.
 
-<h3>Tools and Languages</h3>
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="45" height="45" alt="Go" />
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45" height="45" alt="Flutter" />
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="45" height="45" alt="Dart" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/snowflake.svg" width="45" height="45" alt="Snowflake" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apachespark.svg" width="45" height="45" alt="Spark" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/apacheairflow.svg" width="45" height="45" alt="Airflow" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45" alt="Kubernetes" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45" alt="Azure" />
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg" width="45" height="45" alt="GCP" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL" />
-</p>
+### 📫 Reach me
+[LinkedIn](https://linkedin.com/in/rehan-qureshi-004b6a222) · [LeetCode](https://leetcode.com/rehqureshi01)
