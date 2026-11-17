@@ -25,9 +25,9 @@ I build production data pipelines and analytics platforms. Right now I work as a
 
 ### 🏢 Work highlights *(private code)*
 
-- **AI-assisted ELT pipeline (Claroda)**: turns raw client data into production dbt models; added a Snowflake Cortex-only mode for clients without external AI access.
-- **SQL Server → Snowflake migration tool (Claroda)**: automated conversion, plus an AI-assisted review queue for objects that can't be converted automatically.
-- **AI interview intelligence platform (Sigmoid)**: PySpark + Airflow ETL on GCP Cloud Run with Gemini summarisation and a 9-check LLM output validation framework.
+- **AI-assisted ELT pipeline**: turns raw client data into production dbt models; added a Snowflake Cortex-only mode for clients without external AI access.
+- **SQL Server → Snowflake migration tool**: automated conversion, plus an AI-assisted review queue for objects that can't be converted automatically.
+- **AI interview intelligence platform**: PySpark + Airflow ETL on GCP Cloud Run with Gemini summarisation and a 9-check LLM output validation framework.
 
 ### 📫 Reach me
 [LinkedIn](https://linkedin.com/in/rehan-qureshi-004b6a222) · [LeetCode](https://leetcode.com/rehqureshi01)
