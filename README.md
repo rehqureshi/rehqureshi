@@ -18,11 +18,6 @@ I build production data pipelines and analytics platforms. Right now I work as a
 | **Languages & databases** | Python, SQL, Go · PostgreSQL, SQL Server |
 | **AI / LLM** | Snowflake Cortex, Gemini, LLM output validation with Pydantic |
 
-### 📌 Featured projects
-
-- **[Netflix Content Intelligence Platform](https://github.com/rehqureshi/netflix-content-intelligence-platform)**: Snowflake + dbt pipeline (RAW → STAGING → ANALYTICS) with a star schema and bridge tables, dbt tests, and a 7-page Streamlit dashboard.
-- **[AgencyOS](https://github.com/rehqureshi/AgencyOS)**: full-stack SaaS for agency management in Go, PostgreSQL and Flutter with JWT-secured REST APIs. [Live demo](https://agency-os-html.vercel.app/)
-
 ### 🏢 Work highlights *(private code)*
 
 - **AI-assisted ELT pipeline**: turns raw client data into production dbt models; added a Snowflake Cortex-only mode for clients without external AI access.
