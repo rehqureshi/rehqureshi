@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Databricks_Data_Engineer_Associate-Certified-FF3621?logo=databricks&logoColor=white" />
 </p>
 
-I build production data pipelines and analytics platforms. Right now I work as an **Associate Data Engineer at Claroda** (Snowflake partner), where I own an AI-assisted ELT pipeline and a **SQL Server → Snowflake migration tool** used for client onboardings. Before that I built ETL + LLM pipelines on GCP as a Data Engineer Intern at **Sigmoid Analytics**.
+I build production data pipelines and analytics platforms.
 
 ### 🔧 What I work with
 
